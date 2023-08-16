@@ -8,6 +8,7 @@
 ## Hardware
 
 * 4pcs M3x20-25mm titan screws + aluminium M3 nyloc nuts (stack)
+  * 25mm is optimal for HDZero setup (ESC+FC+VTX) with 22mm standoffs
 * 4pcs M3x18-20mm 12.9 steel screws (arms)
 * 2pcs M3x10mm titan screws (locks)
 * 4pcs M3x8mm titan screws (top plate)

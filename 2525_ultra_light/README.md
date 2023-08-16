@@ -1,4 +1,9 @@
-### Note
+# Ultra light racing setup
+
+Suitable for 20xx or 2203 motors (M2x12 4 hole mounting) and AIO boards (25.5x25.5 mounting).
+
+
+# Notes
 
 **No brace available at the moment!**
 
