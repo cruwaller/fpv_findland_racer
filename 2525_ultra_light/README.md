@@ -25,5 +25,5 @@ Arms can be 4mm or 5mm thick.
 | 2 | [lock matching to arm thickness](../2020/dxf/fin_racer_2020_lock4_2mm.dxf) |
 
 
-Note: you can use the [ middle plate](../2020/dxf/fin_racer_2020_middle_lock_nut_2mm.dxf) with 20x20 mounting
+Note: you can use the [ middle plate](../2020/dxf/fin_racer_2020_middle_inserts_2mm.dxf) with 20x20 mounting
 if you don't want to use whoop style stack.
