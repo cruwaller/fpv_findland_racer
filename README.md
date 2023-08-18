@@ -19,3 +19,5 @@
   * https://www.aliexpress.com/item/4000569037127.html
 * 4pcs M3 20-22mm standoffs
   * https://www.aliexpress.com/item/4000152799825.html
+* Optional: Carbon inserts (river nuts)
+  * https://www.aliexpress.com/item/4001072105952.html
