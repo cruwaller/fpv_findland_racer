@@ -22,6 +22,6 @@
 Arm screws in `fin_racer_2020_middle_inserts_2mm.dxf` are M3 carbon inserts so
 choose the `fin_racer_2020_middle_m3_nyloc_2mm.dxf` for M3 nyloc nuts!
 
-Two different top plate version are also available:
+Two different top plate versions are also available:
 * `fin_racer_2020_top_twenty_2mm.dxf` with 20x20 mounting holes
 * `fin_racer_2020_top_whoop_2mm.dxf` with 25.5x25.5mm mounting holes
